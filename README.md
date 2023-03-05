@@ -48,9 +48,6 @@
      <td align="center">
         <a href="https://github.com/yubin0727"><img src="https://avatars.githubusercontent.com/u/101437398?v=4" width="150px" alt="신유빈"/><br /><sub><b>신유빈</b></sub></a>
      </td>
-    <td align="center">
-    <a href="https://github.com/Ness731"><img src="https://avatars.githubusercontent.com/u/103942182?v=4" width="150px;" alt="정진주"/><br /><sub><b>정진주</b></sub></a><br />
-    </td>
      <td align="center">
         <a href="https://github.com/juijeong8324"><img src="https://avatars.githubusercontent.com/u/63052097?v=4" width="150px" alt="전의정"/><br /><sub><b>전의정</b></sub></a>
      </td>
